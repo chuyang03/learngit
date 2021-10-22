@@ -10,3 +10,4 @@ add merge
 add self branch cyy next step merge for dev
 
 git stash
+git is a free software.
